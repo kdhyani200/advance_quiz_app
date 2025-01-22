@@ -37,3 +37,33 @@ To run this project locally, follow these steps:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/kdhyani200/advance_quiz_app.git
+2. Open the project in Android Studio.
+
+3. Install the dependencies and sync the project with Gradle.
+
+4. Configure Firebase:
+  Create a Firebase project at Firebase Console.
+  Add the google-services.json file to the app/ directory.
+  Enable Firebase Authentication (Email/Password) in the Firebase console.
+  Run the app on an emulator or device.
+
+📱 Screenshots
+  
+
+🔜 Upcoming Features
+
+  Leaderboard: View the top-ranked players and challenge your friends!
+  
+  App Drawer: Access all features from a convenient side menu.
+  
+  Enhanced UI: A smoother, more intuitive interface for better user experience.
+  
+📧 Contact
+
+  Feel free to reach out for questions, feature requests, or contributions!
+
+  Email: your.kdhyani1200@gmail.com
+  
+🙌 Contributions
+
+  Contributions are always welcome! Feel free to fork the repository, submit issues, and send pull requests.
