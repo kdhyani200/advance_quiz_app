@@ -48,7 +48,14 @@ To run this project locally, follow these steps:
   Run the app on an emulator or device.
 
 📱 Screenshots
-  
+  ![MixCollage-23-Jan-2025-11-29-PM-882](https://github.com/user-attachments/assets/f867828b-7b66-45e8-8732-90fcf4d91454)
+
+  ![MixCollage-23-Jan-2025-11-33-PM-4924](https://github.com/user-attachments/assets/f7acdab0-8e33-4459-a78e-0f0602c7e283)
+
+  ![MixCollage-23-Jan-2025-11-35-PM-9612](https://github.com/user-attachments/assets/965cde12-eb00-4151-8860-5a1d46927d12)
+
+  ![MixCollage-23-Jan-2025-11-37-PM-4162](https://github.com/user-attachments/assets/27046522-3b8d-41c2-b844-2e8fc61770a8)
+
 
 🔜 Upcoming Features
 
