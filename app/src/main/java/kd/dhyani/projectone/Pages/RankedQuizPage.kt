@@ -23,7 +23,7 @@ fun RankedQuizPage(navController: NavController, context: Context) {
 
     // Set the start time for the quiz (e.g., 5:00 PM)
     calendar.apply {
-        set(Calendar.HOUR_OF_DAY, 0)
+        set(Calendar.HOUR_OF_DAY, 21)
         set(Calendar.MINUTE, 5)
         set(Calendar.SECOND, 0)
     }
