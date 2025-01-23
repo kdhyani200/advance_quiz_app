@@ -62,7 +62,7 @@ To run this project locally, follow these steps:
 
   Feel free to reach out for questions, feature requests, or contributions!
 
-  Email: your.kdhyani1200@gmail.com
+  Email: kdhyani1200@gmail.com
   
 🙌 Contributions
 
