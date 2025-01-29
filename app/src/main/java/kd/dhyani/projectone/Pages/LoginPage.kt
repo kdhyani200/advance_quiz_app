@@ -7,6 +7,7 @@ import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Email
 import androidx.compose.material.icons.filled.Lock
+import androidx.compose.material.icons.filled.Password
 import androidx.compose.material.icons.filled.Visibility
 import androidx.compose.material.icons.filled.VisibilityOff
 import androidx.compose.material3.*
@@ -80,7 +81,7 @@ fun LoginPage(
         )
 
         OutlinedTextField(
-            leadingIcon = { Icon(imageVector = Icons.Default.Lock, contentDescription = "Password")},
+            leadingIcon = { Icon(imageVector = Icons.Default.Password, contentDescription = "Password")},
             value = password,
             onValueChange = { newPassword -> password = newPassword },
             label = { Text(text = "Password") },
