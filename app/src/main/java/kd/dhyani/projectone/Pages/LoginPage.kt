@@ -81,7 +81,7 @@ fun LoginPage(
         )
 
         OutlinedTextField(
-            leadingIcon = { Icon(imageVector = Icons.Default.Password, contentDescription = "Password")},
+            leadingIcon = { Icon(imageVector = Icons.Default.Lock, contentDescription = "Password")},
             value = password,
             onValueChange = { newPassword -> password = newPassword },
             label = { Text(text = "Password") },
